@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIAddingParametersProject.dll"</Assembly>
+		
+		<AddInId>D56F5A96-4F3F-41EE-99AB-76B9AD4F8A57</AddInId>
+		<FullClassName>RevitAPIAddingParametersProject.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создать параметр для Revit</Text>
+	</AddIn>
+</RevitAddIns>
